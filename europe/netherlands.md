@@ -65,3 +65,8 @@ Yggdrasil configuration file to peer with these nodes.
 * Netherlands, public node, DualStack (IPv4+IPv6)
   * `tcp://ygg.bruijn.nu:65535`
   * `quic://ygg.bruijn.nu:65535`
+
+
+* Netherlands, VPS, public node, operated by TwistSocial
+
+  * `tls://195.242.119.43:12345?key=aa735bde5425c0034c4813b2263fe42e60964d86629a4648807f8d2be6e866d8`
